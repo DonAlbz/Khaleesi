@@ -1,3 +1,5 @@
+package inputDati;
+
 import java.util.Scanner;
 public class InputDati 
 {
