@@ -44,7 +44,7 @@ public class Partita {
 		return casella.containsKey(coordinate);
 	}
 
-	private AbstractObject contenutoCasella(Coordinate coordinate){
+	private AbstractObject contenutoCasella(Point coordinate){
 		return casella.get(coordinate);
 
 	}
