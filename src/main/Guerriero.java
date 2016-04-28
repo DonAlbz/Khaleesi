@@ -13,6 +13,10 @@ public class Guerriero {
 		posizione=new Point(0,0);
 	}
 	
+	public Point getPosizione(){
+		return posizione;
+	}
+	
 	
 	
 	private String richiestaNome() {
